@@ -26,7 +26,23 @@ It helps in:
 - Reports & Dashboards
 
 ## 📂 Project Document
-[Click here to view full documentation](./EVENTFORCE%20MANAGEMENT%20SYSTEM-%20SALESFORCE%20IMPLEMENTATION%20NM%20(1).docx)
+## 📂 Project Document
+
+This document provides a complete overview of the **EventForce Management System**, a Salesforce-based solution designed to streamline event planning and coordination.
+
+### 📌 What the document includes:
+- System architecture and design
+- Salesforce objects and data model
+- Apex classes and triggers implementation
+- Flow automation and business logic
+- Event, Client, Vendor, and Venue management
+- Approval processes and validations
+- Reports and dashboards for analytics
+
+### 🎯 Purpose:
+The document explains how Salesforce CRM is used to automate event management processes, reduce manual work, and improve efficiency.
+
+👉 [Click here to view full documentation](PASTE-YOUR-CORRECT-LINK-HERE)
 ## 🔗 GitHub Repository
 https://github.com/Abinayasri-G/Eventforce-Management-System
 
