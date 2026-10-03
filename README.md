@@ -42,7 +42,8 @@ This document provides a complete overview of the **EventForce Management System
 ### 🎯 Purpose:
 The document explains how Salesforce CRM is used to automate event management processes, reduce manual work, and improve efficiency.
 
-👉 [Click here to view full documentation](PASTE-YOUR-CORRECT-LINK-HERE)
+## 📂 Project Document
+[Click here to view full documentation](https://github.com/Abinayasri-G/Eventforce-Management-System/blob/main/EVENTFORCE%20MANAGEMENT%20SYSTEM-%20SALESFORCE%20IMPLEMENTATION%20NM%20(1).docx)
 ## 🔗 GitHub Repository
 https://github.com/Abinayasri-G/Eventforce-Management-System
 
