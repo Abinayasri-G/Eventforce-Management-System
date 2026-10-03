@@ -27,6 +27,8 @@ It helps in:
 
 ## 📂 Project Document
 [Click here to view full documentation](./EVENTFORCE%20MANAGEMENT%20SYSTEM-%20SALESFORCE%20IMPLEMENTATION%20NM%20(1).docx)
+## 🔗 GitHub Repository
+https://github.com/Abinayasri-G/Eventforce-Management-System
 
 ## 📊 Outcome
 - Reduced manual work
