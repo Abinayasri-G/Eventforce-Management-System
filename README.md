@@ -4,53 +4,52 @@
 EventForce Management System is a Salesforce-based CRM solution designed to manage event planning operations efficiently.
 
 It helps in:
-- Client management
-- Event scheduling
-- Venue booking
-- Vendor coordination
-- Feedback management
+- Client management  
+- Event scheduling  
+- Venue booking  
+- Vendor coordination  
+- Feedback management  
 
-## 🚀 Features
-✔ Event & Client Management  
-✔ Venue Reservation System  
-✔ Vendor Coordination  
-✔ Automated Event Reminders  
-✔ Approval Process for Cancellation  
-✔ Reports & Dashboards  
+---
+
+## ⚙️ Features
+- Salesforce CRM Implementation  
+- Apex Classes & Triggers  
+- Flow Automation  
+- Lightning App Development  
+- Reports & Dashboards  
+
+---
 
 ## 🛠️ Technologies Used
-- Salesforce CRM
-- Apex Classes & Triggers
-- Flows & Automation
-- Lightning App
-- Reports & Dashboards
+- Salesforce CRM  
+- Apex Programming  
+- Lightning App Builder  
+- Salesforce Flows  
+- SOQL & SOSL  
+
+---
 
 ## 📂 Project Document
-## 📂 Project Document
 
-This document provides a complete overview of the **EventForce Management System**, a Salesforce-based solution designed to streamline event planning and coordination.
+Click below to view the complete project documentation:
 
-### 📌 What the document includes:
-- System architecture and design
-- Salesforce objects and data model
-- Apex classes and triggers implementation
-- Flow automation and business logic
-- Event, Client, Vendor, and Venue management
-- Approval processes and validations
-- Reports and dashboards for analytics
+👉 [View Project Document](./EVENTFORCE%20MANAGEMENT%20SYSTEM-%20SALESFORCE%20IMPLEMENTATION%20NM%20(1)%20(2).pdf)
 
-### 🎯 Purpose:
-The document explains how Salesforce CRM is used to automate event management processes, reduce manual work, and improve efficiency.
+---
 
-## 📂 Project Document
-[Click here to view full documentation](https://github.com/Abinayasri-G/Eventforce-Management-System/blob/main/EVENTFORCE%20MANAGEMENT%20SYSTEM-%20SALESFORCE%20IMPLEMENTATION%20NM%20(1).docx)
 ## 🔗 GitHub Repository
 https://github.com/Abinayasri-G/Eventforce-Management-System
 
-## 📊 Outcome
-- Reduced manual work
-- Prevented double booking
-- Improved event coordination
+---
 
-## 👩‍💻 Author
-Abinaya Sri
+## 📊 Outcome
+- Reduced manual work  
+- Improved efficiency  
+- Prevented double booking  
+- Better event tracking and management  
+
+---
+
+## 🙌 Author
+**Abinayasri G**
