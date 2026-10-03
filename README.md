@@ -34,7 +34,7 @@ It helps in:
 
 Click below to view the complete project documentation:
 
-👉 [View Project Document](./EVENTFORCE%20MANAGEMENT%20SYSTEM-%20SALESFORCE%20IMPLEMENTATION%20NM%20(1)%20(2).pdf)
+👉 [View Project Document](./eventforce.pdf)
 
 ---
 
